@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/media/data/home/martijn/Checkouts/bindadmin.git/webapp/app/assets/stylesheets'
+let g:netrw_dirhist_2='/media/data/home/martijn/Checkouts/docs-homo.git'
+let g:netrw_dirhist_3='/media/data/home/martijn/Checkouts/web-www.git'
+let g:netrw_dirhist_4='/media/data/home/martijn/Checkouts/rails-primary-key'
+let g:netrw_dirhist_5='/media/data/home/martijn/.vim'
