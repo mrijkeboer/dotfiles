@@ -41,7 +41,7 @@ set cursorline
 set colorcolumn=80
 
 set background=dark
-colorscheme mustang
+colorscheme solarized
 
 inoremap <F1> <ESC>
 nnoremap <F1> <ESC>
