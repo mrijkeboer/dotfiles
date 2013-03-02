@@ -10,6 +10,7 @@
 
     <Include>
         <Filename>chromium-browser.desktop</Filename>
+        <Filename>chrome.desktop</Filename>
         <Filename>terminator.desktop</Filename>
         <Filename>gvim.desktop</Filename>
         <Filename>liferea.desktop</Filename>
@@ -18,6 +19,7 @@
 
     <Layout>
         <Filename>chromium-browser.desktop</Filename>
+        <Filename>chrome.desktop</Filename>
         <Filename>terminator.desktop</Filename>
         <Filename>gvim.desktop</Filename>
         <Filename>liferea.desktop</Filename>
