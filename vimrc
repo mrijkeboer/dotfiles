@@ -43,6 +43,8 @@ set colorcolumn=80
 set background=dark
 colorscheme solarized
 
+let g:NERDTreeDirArrows=0
+
 inoremap <F1> <ESC>
 nnoremap <F1> <ESC>
 vnoremap <F1> <ESC>
