@@ -9,6 +9,10 @@ set guioptions-=l
 set guioptions-=L
 set showtabline=0
 
+set cursorline
+set background=dark
+colorscheme solarized
+
 let NERDTreeHighlightCursorline=0
 
-NERDTree ~/Checkouts
+NERDTree ~/

@@ -35,13 +35,8 @@ set smartcase
 set pastetoggle=<F2>
 set mouse=a
 
-"set t_Co=256
 set term=screen-256color
-set cursorline
 set colorcolumn=80
-
-set background=dark
-colorscheme solarized
 
 let g:NERDTreeDirArrows=0
 
