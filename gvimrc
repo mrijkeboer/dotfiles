@@ -13,6 +13,9 @@ set cursorline
 set background=dark
 colorscheme solarized
 
+highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$\| \+\ze\t/
+
 let NERDTreeHighlightCursorline=0
 
 NERDTree ~/

@@ -46,7 +46,6 @@ vnoremap <F1> <ESC>
 
 inoremap jj <ESC>
 
-" Highlight spurious spaces
 highlight ExtraWhitespace ctermbg=red guibg=red
 match ExtraWhitespace /\s\+$\| \+\ze\t/
 
