@@ -44,8 +44,6 @@ inoremap <F1> <ESC>
 nnoremap <F1> <ESC>
 vnoremap <F1> <ESC>
 
-inoremap jj <ESC>
-
 highlight ExtraWhitespace ctermbg=red guibg=red
 match ExtraWhitespace /\s\+$\| \+\ze\t/
 
