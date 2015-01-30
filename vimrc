@@ -30,6 +30,7 @@ set smartindent
 set noerrorbells
 set title
 set relativenumber
+set number
 set ignorecase
 set smartcase
 set pastetoggle=<F2>
