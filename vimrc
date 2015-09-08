@@ -37,7 +37,10 @@ set pastetoggle=<F2>
 set mouse=a
 
 set term=screen-256color
+set background=dark
 set colorcolumn=80
+
+set spelllang=en_us
 
 let g:NERDTreeDirArrows=0
 
