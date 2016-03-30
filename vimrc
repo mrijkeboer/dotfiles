@@ -29,7 +29,6 @@ set showcmd
 set smartindent
 set noerrorbells
 set title
-set relativenumber
 set number
 set ignorecase
 set smartcase
