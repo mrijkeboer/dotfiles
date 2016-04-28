@@ -34,6 +34,7 @@ set ignorecase
 set smartcase
 set pastetoggle=<F2>
 set mouse=a
+set visualbell
 
 set term=screen-256color
 set background=dark
