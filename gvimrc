@@ -8,6 +8,7 @@ set guioptions-=R
 set guioptions-=l
 set guioptions-=L
 set showtabline=0
+set encoding=utf-8
 
 set cursorline
 set background=dark
