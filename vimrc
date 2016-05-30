@@ -43,6 +43,7 @@ set colorcolumn=80
 set spelllang=en_us
 
 let g:NERDTreeDirArrows=0
+let g:sql_type_default = 'pgsql'
 
 inoremap <F1> <ESC>
 nnoremap <F1> <ESC>
