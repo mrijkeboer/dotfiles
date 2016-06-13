@@ -11,6 +11,7 @@ set showtabline=0
 set encoding=utf-8
 
 set cursorline
+set guifont=Liberation\ Mono\ 8
 set background=dark
 colorscheme solarized
 
