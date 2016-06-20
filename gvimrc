@@ -10,7 +10,7 @@ set guioptions-=L
 set showtabline=0
 set encoding=utf-8
 
-set guifont=Liberation\ Mono\ 8
+set guifont=DejaVu\ Sans\ Mono\ 8
 set background=dark
 colorscheme solarized
 
