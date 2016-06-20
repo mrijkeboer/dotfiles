@@ -44,7 +44,6 @@ set colorcolumn=80
 set spelllang=en_us
 
 let g:NERDTreeDirArrows=0
-let g:solarized_termcolors=256
 let g:sql_type_default = 'pgsql'
 
 colorscheme solarized
