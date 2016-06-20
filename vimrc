@@ -35,6 +35,7 @@ set smartcase
 set pastetoggle=<F2>
 set mouse=a
 set visualbell
+set encoding=utf-8
 
 set term=screen-256color
 set background=dark
