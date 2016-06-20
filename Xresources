@@ -1,9 +1,15 @@
-XTerm*background: rgb:38/38/38
-XTerm*foreground: rgb:ff/ff/f8
-XTerm*faceName: DejaVu Sans Mono:size=10:antialias=true
-XTerm*font: 7x13
-XTerm*utf8: true
-XTerm*locale: true
-XTerm*termName: xterm-color
-XTerm*scrollBar: false
-XTerm*loginShell: true
+uxterm*background: rgb:38/38/38
+uxterm*foreground: rgb:ff/ff/f8
+uxterm*faceName: DejaVu Sans Mono:size=8:antialias=true
+uxterm*scrollBar: false
+uxterm*loginShell: true
+
+xterm*background: rgb:38/38/38
+xterm*foreground: rgb:ff/ff/f8
+xterm*faceName: DejaVu Sans Mono:size=8:antialias=true
+xterm*font: 7x13
+xterm*utf8: true
+xterm*locale: true
+xterm*termName: xterm-color
+xterm*scrollBar: false
+xterm*loginShell: true
