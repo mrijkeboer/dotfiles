@@ -9,18 +9,18 @@
 #define S_cyan          #2aa198
 #define S_green         #859900
 
-!#define S_base03       #002b36
-#define S_base03        #1f1f1f
-!#define S_base02       #073642
-#define S_base02        #292929
-!#define S_base01       #586e75
-#define S_base01        #686868
-!#define S_base00       #657b83
-#define S_base00        #757575
-!#define S_base0        #839496
-#define S_base0         #dfdfdf
-!#define S_base1        #93a1a1
-#define S_base1         #9d9d9d
+#define S_base03       #002b36
+!#define S_base03        #1f1f1f
+#define S_base02       #073642
+!#define S_base02        #292929
+#define S_base01       #586e75
+!#define S_base01        #686868
+#define S_base00       #657b83
+!#define S_base00        #757575
+#define S_base0        #839496
+!#define S_base0         #dfdfdf
+#define S_base1        #93a1a1
+!#define S_base1         #9d9d9d
 #define S_base2         #eee8d5
 #define S_base3         #fdf6e3
 
