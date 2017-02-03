@@ -64,3 +64,4 @@ xterm*faceName: DejaVu Sans Mono:size=8:antialias=true
 xterm*scrollBar: false
 xterm*loginShell: true
 
+ssh-askpass*font:
