@@ -9,6 +9,9 @@ else
     export EDITOR=/usr/bin/vi
 fi
 
+# Force emacs line editing after setting editor to vi/vim
+set -o emacs
+
 if [ "$TERM" = "xterm" ]; then
     if [ -z "$COLORTERM" ]; then
         case "$XTERM_VERSION" in
