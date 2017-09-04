@@ -49,7 +49,7 @@
 *color15:                 #002b36
 
 
-urxvt*font: xft:DejaVu Sans Mono:size=8:antialias=true
+urxvt*font: xft:DejaVu Sans Mono for Powerline:size=8:antialias=true
 urxvt*scrollBar: false
 urxvt*loginShell: true
 urxvt*fading: 0
@@ -61,7 +61,7 @@ uxterm*scrollBar: false
 uxterm*loginShell: true
 uxterm*charClass: 33:48,35:48,37-38:48,43-47:48,58:48,61:48,63-64:48,95:48,126:48
 
-xterm*faceName: DejaVu Sans Mono:size=8:antialias=true
+xterm*faceName: DejaVu Sans Mono for Powerline:size=8:antialias=true
 xterm*scrollBar: false
 xterm*loginShell: true
 xterm*charClass: 33:48,35:48,37-38:48,43-47:48,58:48,61:48,63-64:48,95:48,126:48
