@@ -54,6 +54,7 @@ urxvt*scrollBar: false
 urxvt*loginShell: true
 urxvt*fading: 0
 urxvt*borderColor: #fdf6e3
+urxvt*letterSpace: -1
 
 
 uxterm*faceName: DejaVu Sans Mono:size=8:antialias=true
