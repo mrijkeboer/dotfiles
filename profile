@@ -1,8 +1,11 @@
-PATH=$HOME/bin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/X11R6/bin:/usr/local/bin:/usr/local/sbin
+PATH=$HOME/.local/bin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/X11R6/bin:/usr/local/bin:/usr/local/sbin
 export PATH HOME TERM
 umask 027
 
-if [ -x /usr/local/bin/vim ]; then
+if [ -x /usr/local/bin/nvim ]; then
+    export EDITOR=/usr/local/bin/nvim
+    alias vi=/usr/local/bin/nvim
+elif [ -x /usr/local/bin/vim ]; then
     export EDITOR=/usr/local/bin/vim
     alias vi=/usr/local/bin/vim
 else
