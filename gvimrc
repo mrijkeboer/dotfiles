@@ -11,8 +11,8 @@ set showtabline=0
 set encoding=utf-8
 
 set guifont=DejaVu\ Sans\ Mono\ 8
-set background=light
 colorscheme solarized
+set background=light
 
 highlight ExtraWhitespace ctermbg=red guibg=red
 match ExtraWhitespace /\s\+$\| \+\ze\t/
